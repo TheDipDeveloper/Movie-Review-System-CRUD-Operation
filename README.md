@@ -41,3 +41,6 @@ CURL: <code>curl --location --request PUT 'http://localhost:8080/movie/update/20
 
 # Please SUBSCRIBE - LIKE - SHARE the video
 ## Please provide feedback on COMMENT section
+
+[![Watch the video](https://img.youtube.com/vi/U6Ogp4D_eZ8/maxresdefault.jpg)](https://www.youtube.com/watch?v=U6Ogp4D_eZ8)
+
